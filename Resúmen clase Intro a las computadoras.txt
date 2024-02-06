@@ -1,0 +1,13 @@
+Durante tres semanas de clase introductoria a la computación, se cubrieron varios temas fundamentales:
+
+Números Binarios: Se exploró el sistema de numeración binario, fundamental en computación, que utiliza solo los dígitos 0 y 1. Se discutió cómo representar números enteros y fraccionarios en este sistema, así como realizar operaciones básicas como suma, resta, multiplicación y división.
+
+Código ASCII: Se introdujo el estándar ASCII (American Standard Code for Information Interchange), que asigna un valor numérico a caracteres como letras, números y símbolos. Se explicó cómo se utilizan estos códigos para representar texto en sistemas informáticos.
+
+Algoritmos: Se estudiaron conceptos básicos de algoritmos, que son conjuntos ordenados de operaciones para resolver un problema específico. Se discutió cómo diseñar, analizar y evaluar la eficiencia de los algoritmos, así como la importancia de la claridad y la precisión en su descripción.
+
+Variables: Se enseñó el concepto de variables en programación, que son espacios de memoria utilizados para almacenar datos durante la ejecución de un programa. Se exploraron diferentes tipos de variables, como enteros, flotantes y cadenas, así como operaciones básicas de asignación y manipulación de variables.
+
+Introducción a GitHub: Se proporcionó una visión general de GitHub, una plataforma de desarrollo colaborativo que utiliza el control de versiones Git. Se cubrieron conceptos básicos como la creación de repositorios, la realización de cambios, la creación de ramas y la colaboración con otros desarrolladores.
+
+Computadora Remota: Se exploró el concepto de acceso a una computadora remota, donde los estudiantes aprendieron a conectarse y trabajar en una máquina a través de la red. Se discutieron herramientas y protocolos comunes utilizados para acceder a computadoras remotas, como SSH (Secure Shell).
